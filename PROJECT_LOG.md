@@ -1,16 +1,33 @@
-# Project Pulse - Project Log
+# Project Pulse – Development Log
 
-## 24 July 2026
+## June 2026
 
-### Current Status
-- GitHub repository created
-- Project structure finalized
-- Dataset loaded
-- Missing values checked
-- Data types checked
-- Initial exploration completed
+- Project vision & business problem
+- Dataset selection
+- Initial dataset exploration
+- Data understanding
+- Missing value analysis
+- Statistical analysis
 
-### Next Goal
-- Understand every column using the data dictionary.
-- Identify the target variable.
-- Begin detailed EDA.
+---
+
+## July 2026
+
+- GitHub repository setup
+- Project structure and documentation
+- Data cleaning
+- Processed dataset creation
+- Feature selection
+- Feature engineering planning
+- Data leakage analysis
+- Data dictionary creation
+
+---
+
+## August 2026
+
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Model building
+- Baseline model
+- Model evaluation
